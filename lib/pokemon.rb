@@ -25,5 +25,5 @@ class Pokemon
       pokemon
     end
     results[0]
-    end
+  end
 end 
